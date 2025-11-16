@@ -12,8 +12,27 @@ I’m currently working on <a href="https://github.com/termx3/EasyChat" target="
   <img src="https://img.shields.io/badge/Terminal-000000?logo=gnometerminal&logoColor=white" />
 </p>
 
-### What I Build
+<div style="display: flex; gap: 40px;">
+
+<div>
+<h3>What I Build</h3>
+
 - Lightweight backend services  
 - Secure communication tools  
-- Minimal, terminal-focused applications  
-- Clean APIs and small infrastructure pieces
+- Minimal terminal applications  
+- Clean APIs  
+
+</div>
+
+<div>
+<h3>Current Focus</h3>
+
+- Improving EasyChat’s protocol implementation  
+- Designing more robust backend/API patterns  
+- Exploring advanced cryptographic primitives  
+- Strengthening client-side security  
+
+</div>
+
+</div>
+
