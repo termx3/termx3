@@ -12,3 +12,9 @@ I’m currently working on <a href="https://github.com/termx3/EasyChat" target="
   <img src="https://img.shields.io/badge/Cryptography-000?logo=protonvpn&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-000000?logo=gnometerminal&logoColor=white" />
 </p>
+
+### What I Build
+- Lightweight backend services  
+- Secure communication tools  
+- Minimal, terminal-focused applications  
+- Clean APIs and small infrastructure pieces
