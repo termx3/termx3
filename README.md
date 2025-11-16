@@ -3,7 +3,7 @@ I’m currently working on <a href="https://github.com/termx3/EasyChat" target="
 
 ---
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-333333?logo=serverfault&logoColor=white" />
