@@ -1,11 +1,13 @@
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-</div>
+Hi, I’m a Python and backend developer passionate about cryptography and secure system design.
+I enjoy building minimal, efficient tools and exploring how systems work under the hood.
 
-###
+## Tech & Interests
+
+Python, C# and backend development.
+Cryptography, protocols, and security-focused architecture
+Systems programming and performance-oriented design
+Building small experiments and learning-driven projects
+
+## Contact
+Feel free to add me on Telegram.
+> https://t.me/carvedup
