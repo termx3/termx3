@@ -27,7 +27,7 @@ I’m currently working on <a href="https://github.com/termx3/EasyChat" target="
 <div>
 <h3>Current Focus</h3>
 
-- Improving EasyChat’s protocol implementation  
+- Improving <a href="https://github.com/termx3/EasyChat" target="_blank">EasyChat's</a> protocol implementation  
 - Designing more robust backend/API patterns  
 - Exploring advanced cryptographic primitives  
 - Strengthening client-side security  
