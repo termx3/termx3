@@ -12,27 +12,29 @@ I’m currently working on <a href="https://github.com/termx3/EasyChat" target="
   <img src="https://img.shields.io/badge/Terminal-000000?logo=gnometerminal&logoColor=white" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <h3>What I Build</h3>
-      <ul>
-        <li>Lightweight backend services</li>
-        <li>Secure communication tools</li>
-        <li>Minimal terminal applications</li>
-        <li>Clean APIs</li>
-      </ul>
-    </td>
-    <td>
-      <h3>Current Focus</h3>
-      <ul>
-        <li>Improving EasyChat’s protocol implementation</li>
-        <li>Designing more robust backend/API patterns</li>
-        <li>Exploring advanced cryptographic primitives</li>
-        <li>Client-side security improvements</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 40px;">
+
+<div>
+<h3>What I Build</h3>
+
+- Lightweight backend services  
+- Secure communication tools  
+- Minimal terminal applications  
+- Clean APIs  
+
+</div>
+
+<div>
+<h3>Current Focus</h3>
+
+- Improving EasyChat’s protocol implementation  
+- Designing more robust backend/API patterns  
+- Exploring advanced cryptographic primitives  
+- Strengthening client-side security  
+
+</div>
+
+</div>
+
 
 
