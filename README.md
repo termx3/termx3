@@ -6,6 +6,6 @@ I’m currently working on <a href="https://github.com/termx3/EasyChat" target="
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-000?logo=protonvpn&logoColor=white)
-![Security](https://img.shields.io/badge/Security-FF0000?logo=datadog&logoColor=white)
+![Security](https://img.shields.io/badge/Security-555555?logo=shield&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?logo=gnometerminal&logoColor=white)
 
